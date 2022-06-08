@@ -1,0 +1,2 @@
+# GAN
+practice GAN program
